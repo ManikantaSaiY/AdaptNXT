@@ -32,3 +32,5 @@ function displayWeather(data) {
         document.getElementById('weatherResult').innerHTML = weatherInfo;
     }
 }
+
+
